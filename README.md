@@ -7,7 +7,7 @@ GNU GPL; see LICENSE.txt for more information
 ### Installation.
 None needed
 
-### About
+### About.
 - An implementation of the [Weasel Program](http://en.wikipedia.org/wiki/Weasel_program) written in python.
 - Demonstrates that the process of evolutionary systems, random variation combined with non-random
 cumulative selection, is different from pure chance.
