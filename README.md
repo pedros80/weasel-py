@@ -11,10 +11,10 @@ None needed
 - An implementation of the [Weasel Program](http://en.wikipedia.org/wiki/Weasel_program) written in python.
 - Demonstrates that the process of evolutionary systems, random variation combined with non-random
 cumulative selection, is different from pure chance.
-- Probability of mutation set to 1/2000.
 
 ### Usage.
-- `python weasel.py`
+- `python weasel.py <mutation probability>`
+- `<mutation probability> is optional; no argument => default of 1/2000
 - then enter y or no to use locking
 
 
