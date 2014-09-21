@@ -14,8 +14,8 @@ cumulative selection, is different from pure chance.
 
 ### Usage.
 - `python weasel.py <mutation probability>`
-- `<mutation probability> is optional; no argument => default of 1/2000
-- then enter y or no to use locking
+- `<mutation probability>` is optional; no argument => default of 1/2000
+- then enter `y` or `n` to use locking
 
 
 ### System Requirements.
